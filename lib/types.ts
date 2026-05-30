@@ -44,7 +44,8 @@ export type RubricScore = {
     | "insight_quality"
     | "outbound_discipline"
     | "anti_sycophancy";
-  score: 1 | 2 | 3 | 4 | 5;
+  /** Integer 1-5. Range enforced at runtime via zod in /api/generate. */
+  score: number;
   note: string;
 };
 
@@ -58,7 +59,8 @@ export type Flag = {
 export type EvalReport = {
   scores: RubricScore[];
   flags: Flag[];
-  overall: 1 | 2 | 3 | 4 | 5;
+  /** Integer 1-5. Range enforced at runtime via zod in /api/generate. */
+  overall: number;
 };
 
 export type EmailDraft = {
