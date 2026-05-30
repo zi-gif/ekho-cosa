@@ -1,0 +1,30 @@
+{
+  "id": "texas-direct-auto",
+  "source": "curated",
+  "name": "Texas Direct Auto",
+  "url": "https://www.texasdirectauto.com",
+  "city": "Stafford",
+  "state": "TX",
+  "region": "Southwest",
+  "segments": ["used-cars"],
+  "brands": ["Toyota", "Ford", "Chevrolet", "Honda", "Nissan", "Jeep", "Ram", "BMW", "Mercedes-Benz", "Lexus"],
+  "estUnitsPerYear": 5400,
+  "estAvgGrossPerUnit": 1980,
+  "inventorySample": [
+    { "label": "Toyota Tacoma TRD Off-Road", "year": 2023, "price": 41995, "condition": "used" },
+    { "label": "Ford F-150 Lariat 4WD SuperCrew", "year": 2022, "price": 45888, "condition": "used" },
+    { "label": "Jeep Wrangler Unlimited Sahara", "year": 2024, "price": 42500, "condition": "used" },
+    { "label": "Honda Civic Si", "year": 2023, "price": 28995, "condition": "used" },
+    { "label": "Mercedes-Benz GLE 350 4MATIC", "year": 2022, "price": 49995, "condition": "used" },
+    { "label": "BMW X3 xDrive30i", "year": 2023, "price": 38900, "condition": "used" }
+  ],
+  "signals": [
+    "Independent used-car volume operator; competes head-on with Carvana and CarMax in TX",
+    "No-haggle pricing on every unit; transparent fee structure on the website",
+    "Active out-of-state sales pipeline; ships nationwide via partnered haulers",
+    "Houston metro is a top-10 used-vehicle market by volume; high cross-county titling load",
+    "Recent Carvana retrenchment in TX creates dealer-share opportunity"
+  ],
+  "aboutCopy": "Texas Direct Auto is one of the largest independent used-vehicle retailers in Texas. We carry trucks, SUVs, sedans, and luxury vehicles, with no-haggle pricing and full delivery anywhere in the lower 48.",
+  "scrapedAt": "2026-05-30T17:00:00Z"
+}

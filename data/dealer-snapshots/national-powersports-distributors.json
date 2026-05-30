@@ -1,0 +1,29 @@
+{
+  "id": "national-powersports-distributors",
+  "source": "curated",
+  "name": "National Powersports Distributors",
+  "url": "https://www.nationalpowersports.net",
+  "city": "Pembroke",
+  "state": "NH",
+  "region": "Northeast",
+  "segments": ["motorcycle", "powersports"],
+  "brands": ["BMW", "Ducati", "Harley-Davidson", "Honda", "Yamaha", "Kawasaki", "KTM", "Triumph", "Indian", "Aprilia"],
+  "estUnitsPerYear": 1900,
+  "estAvgGrossPerUnit": 2100,
+  "inventorySample": [
+    { "label": "BMW R 1300 GS", "year": 2024, "price": 19499, "condition": "used" },
+    { "label": "Ducati Multistrada V4 S", "year": 2023, "price": 21899, "condition": "used" },
+    { "label": "Harley-Davidson Road Glide", "year": 2024, "price": 26499, "condition": "used" },
+    { "label": "KTM 1290 Super Duke R Evo", "year": 2023, "price": 16899, "condition": "used" },
+    { "label": "Triumph Tiger 900 GT Pro", "year": 2024, "price": 14299, "condition": "used" }
+  ],
+  "signals": [
+    "Used-only specialist with national shipping reputation; 80%+ of sales are out-of-state",
+    "Inventory turn is publicly tracked on a 'sold this week' page (rare for the segment)",
+    "Premium-brand mix (BMW, Ducati, KTM) signals higher avg ticket and longer dwell time",
+    "Cross-state titling and registration is the operational core of the business",
+    "Active YouTube channel with walk-arounds, building demand from out-of-state buyers"
+  ],
+  "aboutCopy": "We specialize in pre-owned premium motorcycles and ship coast to coast. Every bike is inspected, photographed, and listed with full disclosure. The store is in New Hampshire; the customers are everywhere.",
+  "scrapedAt": "2026-05-30T17:00:00Z"
+}

@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+.env*.local
+.DS_Store
+*.log
+.vercel
+.turbo
+next-env.d.ts
+
+# Local research, BRIEF, PRD, and screenshots stay local
+.planning/

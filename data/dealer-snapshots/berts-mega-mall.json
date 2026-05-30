@@ -1,0 +1,30 @@
+{
+  "id": "berts-mega-mall",
+  "source": "curated",
+  "name": "Bert's Mega Mall",
+  "url": "https://www.bertsmegamall.com",
+  "city": "Covina",
+  "state": "CA",
+  "region": "West",
+  "segments": ["motorcycle", "powersports", "atv-utv", "marine"],
+  "brands": ["Honda", "Yamaha", "Kawasaki", "Suzuki", "Polaris", "Can-Am", "Sea-Doo", "Indian", "KTM", "Triumph", "Husqvarna", "Vespa"],
+  "estUnitsPerYear": 4200,
+  "estAvgGrossPerUnit": 1850,
+  "inventorySample": [
+    { "label": "Honda CRF300L Rally", "year": 2025, "price": 6499, "condition": "new" },
+    { "label": "Yamaha YZ250F", "year": 2025, "price": 8999, "condition": "new" },
+    { "label": "Kawasaki Ninja 650", "year": 2024, "price": 7599, "condition": "used" },
+    { "label": "Polaris RZR XP 1000 Sport", "year": 2025, "price": 21999, "condition": "new" },
+    { "label": "Sea-Doo GTI SE 130", "year": 2024, "price": 9899, "condition": "used" },
+    { "label": "Indian Scout Bobber", "year": 2025, "price": 11999, "condition": "new" }
+  ],
+  "signals": [
+    "Self-described as the largest multi-brand powersports dealer in California",
+    "Active social presence with weekly inventory drops; 200+ vehicles photographed monthly",
+    "Service department handles 12+ brands, signals deep parts and tech investment",
+    "Financing partnerships visible on site: Synchrony, Sheffield, FreedomRoad",
+    "Hosts dealer events; recently ran a Sea-Doo demo weekend"
+  ],
+  "aboutCopy": "Family-owned since 1965. Bert's started as a single-brand Honda shop in Covina and grew into one of the largest multi-line powersports dealers on the West Coast. Three generations of the same family operate the store today.",
+  "scrapedAt": "2026-05-30T17:00:00Z"
+}

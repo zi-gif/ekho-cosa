@@ -1,0 +1,29 @@
+{
+  "id": "triumph-detroit",
+  "source": "curated",
+  "name": "Triumph Detroit",
+  "url": "https://www.triumphdetroit.com",
+  "city": "Berkley",
+  "state": "MI",
+  "region": "Midwest",
+  "segments": ["motorcycle"],
+  "brands": ["Triumph"],
+  "estUnitsPerYear": 380,
+  "estAvgGrossPerUnit": 2400,
+  "inventorySample": [
+    { "label": "Triumph Speed Triple 1200 RR", "year": 2025, "price": 21900, "condition": "new" },
+    { "label": "Triumph Tiger 1200 GT Explorer", "year": 2025, "price": 24895, "condition": "new" },
+    { "label": "Triumph Bonneville T120 Black", "year": 2024, "price": 12999, "condition": "used" },
+    { "label": "Triumph Street Triple RS", "year": 2024, "price": 13499, "condition": "used" },
+    { "label": "Triumph Scrambler 1200 XE", "year": 2023, "price": 14999, "condition": "used" }
+  ],
+  "signals": [
+    "Single-brand specialty store; deep Triumph community ties (rides, demo days, owners' groups)",
+    "Small unit volume but high per-unit gross and high lifetime parts/accessories attach",
+    "Triumph's recent Daytona 660 launch is driving new buyer demand into single-brand stores",
+    "Cold Midwest winters create off-season demand for online sales and out-of-state shipping",
+    "Triumph North America has been pushing dealers toward digital retailing tools in 2025-2026"
+  ],
+  "aboutCopy": "Triumph Detroit is an authorized Triumph dealer serving metro Detroit and the Great Lakes region. Sales, parts, service, and apparel under one roof. The shop has been a Triumph specialist for over a decade.",
+  "scrapedAt": "2026-05-30T17:00:00Z"
+}

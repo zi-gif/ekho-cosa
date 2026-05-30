@@ -1,0 +1,29 @@
+{
+  "id": "ridenow-surprise",
+  "source": "curated",
+  "name": "RideNow Powersports Surprise",
+  "url": "https://www.ridenowsurprise.com",
+  "city": "Surprise",
+  "state": "AZ",
+  "region": "Southwest",
+  "segments": ["motorcycle", "powersports", "atv-utv"],
+  "brands": ["Yamaha", "Kawasaki", "Suzuki", "Honda", "Polaris", "Can-Am", "Aprilia", "Vespa"],
+  "estUnitsPerYear": 3400,
+  "estAvgGrossPerUnit": 1620,
+  "inventorySample": [
+    { "label": "Kawasaki KX450", "year": 2025, "price": 10299, "condition": "new" },
+    { "label": "Yamaha Tenere 700", "year": 2024, "price": 10499, "condition": "used" },
+    { "label": "Suzuki GSX-S1000GT", "year": 2025, "price": 13499, "condition": "new" },
+    { "label": "Can-Am Maverick X3 RS Turbo R", "year": 2024, "price": 27599, "condition": "used" },
+    { "label": "Polaris Sportsman 570 EPS", "year": 2025, "price": 8799, "condition": "new" }
+  ],
+  "signals": [
+    "Part of the largest powersports dealer group in the US (RumbleOn / RideNow network)",
+    "Standardized digital storefront across 50+ locations, but inventory ops are run locally",
+    "High public-company scrutiny on per-store gross profit and inventory days-on-lot",
+    "Phoenix metro is one of the strongest year-round powersports markets in the country",
+    "Recent corporate restructuring at RumbleOn parent signals appetite for ops tooling"
+  ],
+  "aboutCopy": "RideNow Surprise is one of the largest powersports dealerships in Arizona, operating as part of the RideNow network. We carry Yamaha, Kawasaki, Suzuki, Honda, Polaris, Can-Am, Aprilia, and Vespa under one roof, with a full service center and finance team on-site seven days a week.",
+  "scrapedAt": "2026-05-30T17:00:00Z"
+}

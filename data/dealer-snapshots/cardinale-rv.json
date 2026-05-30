@@ -1,0 +1,29 @@
+{
+  "id": "cardinale-rv",
+  "source": "curated",
+  "name": "Cardinale RV Center",
+  "url": "https://www.cardinalerv.com",
+  "city": "Seaside",
+  "state": "CA",
+  "region": "West",
+  "segments": ["rv"],
+  "brands": ["Winnebago", "Newmar", "Tiffin", "Forest River", "Coachmen", "Heartland", "Jayco"],
+  "estUnitsPerYear": 580,
+  "estAvgGrossPerUnit": 9400,
+  "inventorySample": [
+    { "label": "Winnebago Travato 59GL", "year": 2025, "price": 169999, "condition": "new" },
+    { "label": "Newmar Dutch Star 4081", "year": 2024, "price": 489000, "condition": "new" },
+    { "label": "Jayco Eagle HT 28.5RSTS", "year": 2023, "price": 54900, "condition": "used" },
+    { "label": "Forest River Sunseeker 2860DS", "year": 2024, "price": 119900, "condition": "used" },
+    { "label": "Tiffin Allegro Bus 45 OPP", "year": 2023, "price": 619000, "condition": "used" }
+  ],
+  "signals": [
+    "Winnebago carries highest unit volume and is the marketing centerpiece (Winnebago is on Ekho's cap table)",
+    "High-ticket Class A motorhomes drive disproportionate gross",
+    "Coastal California buyer base; significant out-of-state titling friction",
+    "Service drives recurring revenue; RV service techs are scarce in the segment",
+    "Trade-in volume is the most underexploited inventory lever"
+  ],
+  "aboutCopy": "Cardinale RV is a family-owned dealership on California's Central Coast. We sell new and pre-owned motorhomes, travel trailers, and fifth wheels, and we have one of the largest service bays in the region.",
+  "scrapedAt": "2026-05-30T17:00:00Z"
+}
